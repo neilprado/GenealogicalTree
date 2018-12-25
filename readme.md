@@ -10,7 +10,7 @@
 Projeto realizado para a disciplina de Programação para Web I, ministrado pelo Prof. Edemberg Rocha da Silva
 
 ### Mapeamento de Dados
-[Modelagem de dados](model_dados.png)
+![Modelagem de dados](model_dados.png)
 
 ### Como executar o projeto?
 1. Clonar o projeto: 
