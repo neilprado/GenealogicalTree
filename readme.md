@@ -12,10 +12,15 @@ Projeto realizado para a disciplina de Programação para Web I, ministrado pelo
 ### Mapeamento de Dados
 
 ### Como executar o projeto?
-1. Clonar o projeto: ` git clone https://github.com/neilprado/GenealogicalTree.git `
-2. Entre na raiz do projeto: ` cd GenealogicalTree `
-3. Execute o comando: ` composer install `
-4. Crie o arquivo .env a partir do .env.example: `copy .env.example .env` ou `cp .env.example .env`
-5. Carregue o seguinte comando: `php artisan key:generate`
+1. Clonar o projeto: 
+` git clone https://github.com/neilprado/GenealogicalTree.git `
+2. Entre na raiz do projeto: 
+` cd GenealogicalTree `
+3. Execute o comando: 
+` composer install `
+4. Crie o arquivo .env a partir do .env.example: 
+`copy .env.example .env` ou `cp .env.example .env`
+5. Carregue o seguinte comando: 
+`php artisan key:generate`
 
 Enjoy!!
